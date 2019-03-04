@@ -1,0 +1,43 @@
+[
+    {
+        "memberId": "678101000000",
+        "firstName": "Lousi",
+        "lastName": "admas",
+        "accounts":[
+        	
+        	{
+        	"accountName": "Shift Corps",
+        "state": "TX",
+        "zipCode": "4501",
+        "accountId": "1200101000123424",
+        "effDate": "12/01/2018"
+        	},
+        	{
+        	"accountName": "Shift Corps",
+        "state": "TX",
+        "zipCode": "4501",
+        "accountId": "120010100011111",
+        "effDate": "12/01/2018"
+        	}
+        	],
+        "dob": "08/12/1976",
+        "gender": "Male"
+    },
+    {
+        "memberId": "6781020231848",
+        "firstName": "henry",
+        "lastName": "Williams",
+        "dob": "05/06/1979",
+        "accounts":[
+        	
+        	{
+        	"accountName": "Shift Corps",
+        "state": "TX",
+        "zipCode": "4501",
+        "accountId": "1200101000213444",
+        "effDate": "12/01/2018"
+        	}
+        	],
+        "gender": "Male"
+    }
+]

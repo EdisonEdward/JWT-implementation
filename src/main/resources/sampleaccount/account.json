@@ -1,0 +1,48 @@
+[
+    {
+        "accountName": "Shift Corps",
+        "state": "TX",
+        "zipCode": "4501",
+        "members": [
+            {
+                "firstName": "Lousi",
+                "lastName": "admas",
+                "dob": "08/12/1976",
+                "gender": "Male",
+                "memberId": "678101"
+            },
+            {
+                "firstName": "henry",
+                "lastName": "Williams",
+                "dob": "05/06/1979",
+                "gender": "Male",
+                "memberId": "678102"
+            }
+        ],
+        "accountId": "1200101",
+        "effDate": "12/01/2018"
+    },
+    {
+        "accountName": "Walmart",
+        "state": "IL",
+        "zipCode": "6791",
+        "members": [
+            {
+                "firstName": "Lousi",
+                "lastName": "admas",
+                "dob": "08/12/1976",
+                "gender": "Male",
+                "memberId": "678101"
+            },
+            {
+                "firstName": "henry",
+                "lastName": "Williams",
+                "dob": "05/06/1979",
+                "gender": "Male",
+                "memberId": "678102"
+            }
+        ],
+        "accountId": "1345617",
+        "effDate": "12/07/2018"
+    }
+]
